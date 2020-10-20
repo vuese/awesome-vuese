@@ -5,6 +5,7 @@
 ## Tools
 
 - [markdown-it-vuese](https://github.com/BuptStEve/markdown-it-vuese) - Vuese plugin for markdown-it markdown parser.
+- [vue-template-augmentation](https://github.com/IWANABETHATGUY/vue-template-augmentation) - a vscode extension to offer component prop event completion and other template augmentation stuff powerd by vuese parser.
 - PR welcome..
 
 ## License
